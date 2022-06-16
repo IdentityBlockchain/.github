@@ -17,9 +17,9 @@ The material that follows is under construction, bit it can offer a glimpse into
 ### Notation
 
 | Symbol      | Meaning     |
-| :---        |    :----:   |
-| K      | <p align="left">State CA certified public key of e.g. eID</p>       |
-| K(value)   | <p align="left">value encrypted with the public key K</p>        |
-| K<sup>-1</sup> | <p align="left">Private key corresponding to the public key K</p>    |
-| P | <p align="left">Person key, used to access IdentityBlockchain as an unknown Person</p>    |
-| H | <p align="left">SHA256</p>    |
+| :---        |    :----  |
+| K      | State CA certified public key of e.g. eID       |
+| K(value)   | value encrypted with the public key K        |
+| K<sup>-1</sup> | Private key corresponding to the public key K    |
+| P | Person key, used to access IdentityBlockchain as an unknown Person    |
+| H | SHA256    |
