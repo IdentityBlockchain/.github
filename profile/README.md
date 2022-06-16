@@ -34,7 +34,7 @@ eID</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><span
-class="math inline">\(K(value)\)</span></td>
+class="math inline">K(value)</span></td>
 <td style="text-align: left;"><span class="math inline">\(value\)</span>
 encrypted with the public key <span
 class="math inline">\(K\)</span>.</td>
