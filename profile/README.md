@@ -23,3 +23,5 @@ The material that follows is under construction, bit it can offer a glimpse into
 | K<sup>-1</sup> | Private key corresponding to the public key K    |
 | P | Person key, used to access IdentityBlockchain as an unknown Person    |
 | H | SHA256    |
+
+### Registering P
